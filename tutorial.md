@@ -49,7 +49,7 @@ After you've created your account, let an officer know and you can be added as a
 
 Webpages use HTML to structure the order and importance of content on a site. CSS is used for controlling the style of the content, such as fonts, sizes and colors. Javascript ties everything together, moves content around to meet the screen size, and makes menus expand and retract.
 
-Unless the group desides to try another template or javascript framework, the majority of contributions will happen in the [index.html](https://github.com/UWFAI/UWFAI.github.io/blob/master/index.html) file.
+Unless the group decides to try another template or javascript framework, the majority of contributions will happen in the [index.html](https://github.com/UWFAI/UWFAI.github.io/blob/master/index.html) file.
 
 
 ### Finally the good stuff
