@@ -92,7 +92,7 @@ The text documents with the extension **.md** (_like this one_) in this reposito
 That's all you really need to know about Github to be able to contribute to the site. The great thing about version control is that, if you break anything, we can just roll it back to when it last worked.
 
 ## Contributing to the site with git / Github from the _command line_
-#### AKA "want to learn the 733t skills you speak of"
+#### AKA "how do I learn the 733t skills you speak of"
 
 If you know how to use a terminal then it might be time to learn to use git from the command line. The entirety of my command line experience is in _unix_ so if you are a Windows powershell user then you will have to blaze your own trail.
 
