@@ -86,3 +86,22 @@ The lab has 6 highly-capable all-in-one desktops, multiple cabinets for storage,
 The text content between ```<p class="lead">```  and  ```</p>``` can easily be modified after a copy-paste. To change the image next to the description, you will need to upload it to the **img** folder in the [repository](https://github.com/UWFAI/UWFAI.github.io). Then just insert ```src=img/YOURIMAGENAME.jpg```.  
 
 Easy as **π**.
+
+The text documents with the extension **.md** (_like this one_) in this repository are _markdown_, a form of plain text that allows for some fancy features like [links](www.google.com), _italics_, images etc. The syntax is very simple and if you'd like to learn more here is a great short [tutorial](http://markdowntutorial.com/).
+
+That's all you really need to know about Github to be able to contribute to the site. The great thing about version control is that, if you break anything, we can just roll it back to when it last worked.
+
+## Contributing to the site with git / Github from the _command line_
+#### AKA "want to learn the 733t skills you speak of"
+
+If you know how to use a terminal then it might be time to learn to use git from the command line. The entirety of my command line experience is in _unix_ so if you are a Windows powershell user then you will have to blaze your own trail.
+
+Git was written to work as a command line tool. Github emerged to fill the demand for a web facing front end to git. You can make files and edits straight from the Github page but many developers still choose to use the command line. For some, it just fits with their workflow, is faster, or they are working from a server without graphical support. _Also it's way cooler_
+
+Working from the command line is a little different. For one thing, you keep a local version of the repository (_the files that make up the website_) on your local machine. Then you make changes on your local files, and when you feel ready, you **push** them to the master repository. Git will ask you for some credentials, which is how it knows where to put these _fantastic changes_ you've made, ie to _Github_.
+
+>This is basically the same as _uploading_ to the _cloud_.
+
+[Code Academy](http://www.codeacademy.com) has a great free tutorial to get the basics of [Github](https://try.github.io/levels/1/challenges/1) under your belt.
+
+More to come...
