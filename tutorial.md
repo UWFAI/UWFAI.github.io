@@ -1,7 +1,7 @@
 ## Editing the Website
 ### Tutorial for UWF AI Lab Members
 
-The student run UWF Artificial Intelligence Group [website](https://uwfai.github.io) was created to have an aesthetically pleasing web presence, independent of [uwf.edu](uwf.edu), to show off student projects and activities. 
+The student run UWF Artificial Intelligence Group [website](https://uwfai.github.io) was created to have an aesthetically pleasing web presence, independent of [uwf.edu](http://uwf.edu/cseh/departments/computer-science/research/artificial-intelligence-research-group/), to show off student projects and activities. 
 
 The site is hosted on [Github Pages](https://pages.github.com/), a free hosting site provided by [Github](https://github.com/). Github is the web front of [git](http://git-scm.com/), an open source command line [version control](https://en.wikipedia.org/wiki/Revision_control) tool created by Linus Torvalds.
 
