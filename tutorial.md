@@ -102,6 +102,7 @@ Working from the command line is a little different. For one thing, you keep a l
 
 >This is basically the same as _uploading_ to the _cloud_.
 
-[Code Academy](http://www.codeacademy.com) has a great free tutorial to get the basics of [Github](https://try.github.io/levels/1/challenges/1) under your belt.
+[Code Academy](http://www.codeacademy.com) has a great free [tutorial](https://try.github.io/levels/1/challenges/1) to get the basics of Git under your belt.
+It's suprisingly fun, but if you find it too elementary and are eager to aqcuire your git-chops then look no further than this well though out [walkthrough](http://mrchlblng.me/2014/09/practical-git-introduction/)
 
-More to come...
+There will be a video tutorial in the near future.
