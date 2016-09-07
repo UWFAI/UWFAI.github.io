@@ -21,6 +21,10 @@ h6 {
     font-weight: 700;
 }
 
+.img-center {
+	margin: 0 auto;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
